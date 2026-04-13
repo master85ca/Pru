@@ -141,6 +141,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2067.png" group-title="NOTICIAS", DW 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/578.png" group-title="NOTICIAS", Fox News 🇺🇸
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Mpk/woEgf+kV9vHpkJV4aA","kid": "P+PzGl57SKG1SOk2R1fOZg"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -191,6 +192,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8?uid=62
 #EXTVLCOPT:http-user-agent="FireFox"
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 ###https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8###
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/39.png" group-title="VARIEDADES", TV Chile 🇨🇱
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "RGtxpt64BsbxKeJd6ZnQfA","kid": "xdDXbiSEQjWYj5JlYZ5f7A"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -245,6 +247,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT:http-user-agent="FireFox"
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_C/Canal_de_las_estrellas.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/958.png" group-title="VARIEDADES", TELEMUNDO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty":"oct","k":"0f0k2xth1jTKv8RFOM6bDg","kid":"U9dS5GSdrdgI2ROYX4budw"}]}
@@ -290,6 +293,7 @@ https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent="FireFox"
 https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2037.png" group-title="VARIEDADES", COMEDY CENTRAL 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"utQzpUf5fH9lzaXoO43UFg","kid":"QBP3hMXvQxitRwJOYesJTg"}]}
@@ -386,6 +390,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4909.png" group-title="DOCUMENTALES", TLC 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "navEj4i9fyZnNOV1Ab1vRw","kid": "WHYceygZSR6zoNdlhCw0Gg"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -483,6 +488,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/
 #EXTVLCOPT:http-user-agent="FireFox"
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd
+
 #EXTINF:-1 tvg-logo="https://juani.6te.net/img/flowmusic.png" group-title="MUSICA",606 FlowMUSIC ev
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2KgpE42XC0XoZ8lzOjGy8A","kid":"80zXcJ8JPSPU2wCRB9loYg"}],"type":"temporary"}
@@ -535,6 +541,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" group-title="INFANTILES", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"irsu6RUNiyr46+wN4PgzyA","kid":"199W76o2pxFB0jiFTMRtHQ"}]}
@@ -630,6 +637,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/18.png" group-title="DEPORTES", ESPN 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iRV83SXfJdVvHszO44UIiA","kid":"X8e2YuacD7+NOWkRZrHJGQ"}],"type":"temporary"}
@@ -679,6 +687,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
+
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports ar
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l48HPu4yYGo/JUQwb7Gnsw","kid":"PhwN2NlRM12djFNNKSd8kQ"}],"type":"temporary"}###
 ###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
@@ -738,7 +747,7 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #EXTVLCOPT--http-reconnect=true
 https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mpd
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/46.png" group-title="CINE y SERIES", WARNER
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/46.png" group-title="CINE y SERIES", WARNER 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Wvp+Nppt4Qk4GKha+RKndQ","kid":"BpvT8LbCeUZ+CFSfF79b0A"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -790,6 +799,7 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dEw2NtV6ZRq0RM+f5flbMw","kid":"H6aob9gLbRQl3edEgrXcnA"}]}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/353.png" group-title="CINE y SERIES", FX 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2MJxuCOH5gm2wZ5eeSQK/w","kid":"mrnELHE+D7VRfcd8wZ1nVQ"}]}
@@ -887,6 +897,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/335.png" group-title="CINE y SERIES", HBO Family
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6Q/ZH80/yAm+0rHA039ylw","kid":"U1RzEy9oCCFgtIlILKNfjg"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -931,3 +942,112 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://juani.6te.net/img/pluto.png" group-title="24/7", BOB ESPONJA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://juani.6te.net/img/pluto.png" group-title="24/7", SOUTH PARK
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://juani.6te.net/img/pluto.png" group-title="24/7", RUGRATS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-chno="887" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="24/7", Vevo Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750" group-title="24/7", VECINOS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" group-title="24/7", Nosotros los Guapos
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://linear-451.frequency.stream/dist/vix/451/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" group-title="24/7", La Familia P.Luche
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="24/7", La Rosa de Guadalupe
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235c66611732377769fe87f/d7c3abe71788f8bfbc047b5082f91522?tr=q-80&w=750" group-title="24/7", La Usurpadora
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+####### https://v3.playerlatino.live/stream/m3u8/400 ####
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="24/7", Univision
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" tvg-country="mx" group-title="24/7", UNIVISION
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea?tr=q-80&w=1440" group-title="24/7", Golden +
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cv3sVFs/Escuela-de-rock.jpg" group-title="24/7", Escuela de rock
+https://archive.org/download/tren_20200314/tren/tren.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23HW6Hq/Jackass-1.jpg" group-title="24/7", Jackass 1
+https://archive.org/download/sol02/sol%201/sol%201.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/1_20201022_20201022_2011/Today/4.png" group-title="24/7", Lobo de wall street
+https://archive.org/download/1_20200808_20200808/U/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTVS8Zr/Los-Colegas-Del-Barrio.jpg" group-title="24/7", Colegas Del Barrio
+https://archive.org/download/lcdb_20200409/LCDB.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWWQqvn/zombieland.jpg" group-title="24/7", Zombieland
+https://archive.org/download/patata/patata.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gmJPTZ3/Zombieland-2.jpg" group-title="24/7", Zombieland 2: Tiro de gracia
+https://archive.org/download/00200_20200117_0628/00200.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zFgWZP8/jumanji.jpg" group-title="24/7", Jumanji
+https://archive.org/download/027_20200428/027.mkv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lcv0rm8xtvbvrzl/dr%20stren.jpg" group-title="24/7", Doctor Strange
+https://archive.org/download/dilapalabra9/41519.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dcDmdkj/Sin-t-tulo-1.jpg" group-title="24/7", Joker
+https://archive.org/download/jk-2019/JK2019.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ph8r4st/C-mo-entrenar-a-tu-Drag-n.jpg" group-title="24/7", Cómo entrenar a tu Dragón (2010)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPnzkct/monster-house.jpg" group-title="24/7", Monster House
+https://archive.org/download/rocoto/rocoto/rocoto.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vXF8CNj/up.jpg" group-title="24/7", Up: Una aventura de altura
+https://archive.org/download/00200_20190814/00200.avi
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg" group-title="24/7", El exorcista del papa (2023)
+https://archive.org/download/01_20230504_20230504_1822/01.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="24/7", Scream VI (2023)
+https://archive.org/download/01_20230428_20230428/01.mp4
+#EXTINF:-1 group-title="ESTRENOS" type="movie" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL59KX/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=180&w=120&format=jpg", ANACONDA 2 (2004)
+https://od.lk/s/MjNfMTk5ODAxMDZf/Ver%20Anaconda%202-%20En%20Busca%20de%20la%20Orqu%C3%ADdea%20Sangrienta%20%282004%29%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/628.png" group-title="xxx",SEXTREME
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eeKO4OxYlYu2ZvnlOgzUNA","kid":"lb1kInrPRY2veIb4A9Apjg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/114.png" group-title="xxx",PLAYBOY
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9gigrHA8+q+UQldNmiuH+w","kid":"hXfYHq8zQ22fHkgjYGhafA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/44.png" group-title="xxx",VENUS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bdlz2YeRUSDlZ4gPUKQirw","kid":"NCN9KuZoTuegEfW5x8Q+bQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd
+
+
