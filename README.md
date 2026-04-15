@@ -1,3 +1,563 @@
+#EXTM3U
+
+# =============================================
+# 🇵🇾 TIGO SPORTS 🇵🇾
+# =============================================
+#EXTINF:-1 group-title="🇵🇾 TIGO SPORTS 🇵🇾" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png",EVENTO 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTINF:-1 group-title="🇵🇾 TIGO SPORTS 🇵🇾" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png",EVENTOS PLUS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#EXTINF:-1 group-title="🇵🇾 TIGO SPORTS 🇵🇾" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png",EVENTOS 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://magisvideo.com/KEYFLOW/TIGO3.json
+https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+#EXTINF:-1 group-title="🇵🇾 TIGO SPORTS 🇵🇾" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png",En Vivo
+http://45.170.130.224:8000/play/a04i/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 TIGO SPORTS 🇵🇾" tvg-logo="https://i.ibb.co/1fZk2KkT/KN-rezice.png",TIGO WEB 1
+https://killermina.github.io/mi-player-html/
+
+#EXTINF:-1 group-title="🇵🇾 TIGO SPORTS 🇵🇾" tvg-logo="https://i.ibb.co/1fZk2KkT/KN-rezice.png",TIGO WEB 2
+https://killermina.github.io/player2/
+
+# =============================================
+# ⚽ EVENTOS FLOW COPA DEL REY ⚽
+# =============================================
+#EXTINF:-1 group-title="⚽ EVENTOS FLOW COPA DEL REY ⚽" tvg-logo="https://i.postimg.cc/9frTqBtY/download-(50).png",EVENTOS FLOW 1 COPA DEL REY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd
+
+#EXTINF:-1 group-title="⚽ EVENTOS FLOW COPA DEL REY ⚽" tvg-logo="https://i.postimg.cc/9frTqBtY/download-(50).png",EVENTOS FLOW 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd
+
+# =============================================
+# 🇵🇾 PARAGUAY 🇵🇾
+# =============================================
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/k6cgFLwt/paraguay.png",VISIÓN TV VILLARRICA
+https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",GEN TV
+https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",TELEFUTURO
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png",C9N
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/bjfm9sfR/image.png",SNT
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",PARAVISIÓN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/La-Tele-Canal-11-en-vivo-Online.png",LA TELE HD
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/BKFTqfpx/image.png",TRECE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/d4s6q5mD/image.png",ABC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png",PARAGUAY TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/r2DnTpxP/vnIkhRO.png",ÑANDUTI TV
+https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="http://imgfz.com/i/QTcoH5d.jpeg",TV CAMARA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/WW26ctDc/image.png",SUR TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/zVv33gzz/image.png",UNIVERSO TV
+https://rds3gen.desdeparaguay.net/universotv/universotv_int_alta/index.m3u8?admin=nacion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png",E40
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/d0fxfHsr/image.png",POPU TV
+https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/s9Qr9gmw/image.png",NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/0NwTTY1/image.png",UNICANAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",UNION TV
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.ibb.co/1fL1SsSm/image.png",HEI
+https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY 🇵🇾" tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",Mi Tv
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion
+
+# =============================================
+# ARGENTINA
+# =============================================
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",America TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",Tv Publica
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",Canal 9
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",TELEFE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/bgDXPZ01/image.png",El Trece
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
+
+# (Continúan TN, LN+, C5N, Cronica TV, A24, Canal 26, etc. con el mismo formato de ClearKey y headers)
+
+# =============================================
+# ⚽ ESPN ⚽
+# =============================================
+#EXTINF:-1 group-title="⚽ ESPN ⚽" tvg-logo="https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",ESPN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+
+# (Siguen ESPN 2, ESPN 3, ESPN 4, ESPN 5, ESPN 6, ESPN 7, ESPN PREMIUM con sus respectivos clearkeys)
+
+# =============================================
+# ⚽ FOX SPORTS ⚽
+# =============================================
+#EXTINF:-1 group-title="⚽ FOX SPORTS ⚽" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png",FOX SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
+# (Siguen FOX SPORTS 2 y FOX SPORTS 3)
+
+# =============================================
+# ⚽ TyC SPORTS ⚽
+# =============================================
+#EXTINF:-1 group-title="⚽ TyC SPORTS ⚽" tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png",TYC SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://DL.dropbox.com/scl/fi/i6npptnp7m4apf6pakd86/clearkey_tycsports.json?rlkey=fmyz3j13z4kbjv6usbjx45nch&st=o3mip5ys&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd
+
+# =============================================
+# ⚽ DSPORT ⚽
+# =============================================
+#EXTINF:-1 group-title="⚽ DSPORT ⚽" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",DIRECTV SPORTS
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-header=X-App=di
+#EXTVLCOPT:http-header=X-Version=10/1.0.9
+#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
+http://tv.m3uts.xyz/stream/secure/ZGLjKmZkZy8kZmthAGxhZwV2YwtmKmR3AmH2BQHlAQusLJV2ZmAzAGp1MTEzMwqvLy8j/312.m3u8
+
+#EXTINF:-1 group-title="⚽ DSPORT ⚽" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",DIRECTV SPORTS 2
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-header=X-App=di
+#EXTVLCOPT:http-header=X-Version=10/1.0.9
+#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
+http://tv.m3uts.xyz/stream/secure/AmHjKmZkA18kZmthAGxhZwV2YwtmKmR3AmH2BQH0AmIsLJV2ZmAzAGp1MTEzMwqvLy8j/317.m3u8
+
+#EXTINF:-1 group-title="⚽ DSPORT ⚽" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",DIRECTV SPORTS PLUS
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-header=X-App=di
+#EXTVLCOPT:http-header=X-Version=10/1.0.9
+#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
+http://tv.m3uts.xyz/stream/secure/ZGN3KmZkAS8kZmthAGxhZwV2YwtmKmR3AmH2BQH0ZGSsLJV2ZmAzAGp1MTEzMwqvLy8j/314.m3u8
+
+# =============================================
+# COMBAT UFC WWE
+# =============================================
+#EXTINF:-1 group-title="COMBAT UFC WWE" tvg-logo="https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#EXTINF:-1 group-title="COMBAT UFC WWE" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/solidLogoPNG.png?worldtv2",UFC 2
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 group-title="COMBAT UFC WWE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/500x400.webp?type=color_onBlack",BOXING TV
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154
+
+#EXTINF:-1 group-title="COMBAT UFC WWE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951132/500x400.webp?type=color_onBlack",FIGHT NETWORK
+https://dbrb49pjoymg4.cloudfront.net/10001/99951132/hls/master.m3u8?ads.xumo_channelId=99951132
+
+#EXTINF:-1 group-title="COMBAT UFC WWE" tvg-logo="https://i.ibb.co/pjHcQHK/FITE247.png",FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
+
+#EXTINF:-1 group-title="COMBAT UFC WWE" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/solidLogoPNG.png?worldtv2",DAZN COMBAT
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+# =============================================
+# 🎬 UNIVERSAL+ | HBO
+# =============================================
+#EXTINF:-1 group-title="🎬 UNIVERSAL+ | HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png",Universal Cinema
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+
+#EXTINF:-1 group-title="🎬 UNIVERSAL+ | HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png",Universal Comedy
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
+
+#EXTINF:-1 group-title="🎬 UNIVERSAL+ | HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png",Universal Crime
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+
+#EXTINF:-1 group-title="🎬 UNIVERSAL+ | HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png",Universal Premiere
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+
+#EXTINF:-1 group-title="🎬 UNIVERSAL+ | HBO" tvg-logo="https://i.ibb.co/HfKmnJBb/image.png",Universal Plus
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+
+#EXTINF:-1 group-title="🎬 UNIVERSAL+ | HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",HBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+
+#EXTINF:-1 group-title="🎬 UNIVERSAL+ | HBO" tvg-logo="https://i.ibb.co/Hp38dM6D/image.png",HBO 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+
+# (Continúan HBO Family, HBO Mundi, HBO Plus, HBO Signature, HBO Xtreme, etc.)
+
+# =============================================
+# INFANTILES 👦
+# =============================================
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s",PLIM PLIM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Plim_Plim/SA_Live_dash_enc_C/Plim_Plim.mpd
+
+# (Siguen Paka Paka, Cartoon Network, Nick Jr, Tooncast, Disney Channel, Discovery Kids, Nickelodeon, Cartoonito...)
+
+# =============================================
+# 🎬 Cultura y Cocina
+# =============================================
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://i.ibb.co/4nr56B4Y/2018-Animal-Planet-logo-svg.png",ANIMAL PLANET
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd
+
+# (Siguen History, Discovery Channel, H&H, ID, Science, Turbo, TLC, World, HGTV, El Gourmet, Food Network, etc.)
+
+# =============================================
+# Pack RakutenTV
+# =============================================
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg",Pelis Top
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+
+# =============================================
+# INFANTILES 👦 (continuación)
+# =============================================
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://i.ibb.co/7JRqnmJF/PakaPaka.png",PAKA PAKA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
+
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://i.ibb.co/zV8kbKs0/cartoon-network.png",CARTOON NETWORK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/m2rfcoqmlogiu30o4jg0g/clearkey_cartoon.json?rlkey=kj1z1akf4wmsnwxlkg6a53jz6&st=r7ncpfku&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd
+
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://lokos.pages.dev/webp/logos/nickjr.webp",Nick Jr
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/my1x36oauej11j18bm6zd/clearkey_nikjr.json?rlkey=yoq9nmavdckcuj1tk0tu6ed1d&st=cnglrnfy&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd
+
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",Tooncast
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/0xc5qcf2i323w4bk7tid4/clearkey_tooncast.json?rlkey=2kbkdopm4yc14j9p2ltj7hn3w&st=0csvdeig&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd
+
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://lokos.pages.dev/webp/logos/disney.webp",Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/29jxjbh4i8hty39ndi5fr/clearkey_disneyhd.json?rlkey=jnllgciun10tmhdxkv1i2glfi&st=kw1j2cwe&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyChannelHD.mpd
+
+# (Discovery Kids, Nickelodeon, Cartoonito también siguen el mismo patrón con sus clearkeys)
+
+# =============================================
+# 🎬 Cultura y Cocina (final)
+# =============================================
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://i.ibb.co/cSf474qK/History-Logo-svg.png",HISTORY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
+
+# (History 2, Discovery H&H, Discovery ID, Discovery Science, Discovery Turbo, TLC, HGTV, El Gourmet, Food Network, Hola! TV, Lifetime, etc.)
+
+# =============================================
+# Pack RakutenTV (final)
+# =============================================
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg",Accion
+https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg",Comedio
+https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg",Drama
+https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+# =============================================
+# INFANTILES 👦 (resto)
+# =============================================
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://lokos.pages.dev/webp/logos/diskids.webp",Discovery Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/5oa9lnisiok9m04m03t7a/clearkey_kids.json?rlkey=tqis3cv4so98indhpc7eb8dvf&st=emvcbm0t&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Discovery_Kids/SA_Live_dash_enc_C/Discovery_Kids.mpd
+
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://lokos.pages.dev/webp/logos/nick.webp",Nickelodeon
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/hca3hwm6zg6bxfsup4q4l/clearkey_nicklodeon.json?rlkey=8tknn2ho8tcqlm27xncrozgbq&st=xzikfv5k&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="INFANTILES 👦" tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI",Cartoonito
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/zj8567s3qmpkejhto07hf/clearkey_cartoonito.json?rlkey=ciiw3r5ok5u2kzo27wgclmofu&st=ha38nc8j&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd
+
+# =============================================
+# 🎬 Cultura y Cocina (resto)
+# =============================================
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://i.ibb.co/gjWGgjX/hh.png",DISCOVERY H&H
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0X0bV9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd
+
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",DISCOVERY ID
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd
+
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",DISCOVERY SCIENCE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd
+
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",DISCOVERY TURBO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/9oqg6qqxgw6fhwcvn6fex/turbo.json?rlkey=taczv93ig5h2v25nts4cw5jvo&st=4nuuv4rk&dl=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0X0bV9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
+
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://i.ibb.co/rQVYsy9/R-1.png",DISCOVERY TLC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0X0bV9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd
+
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png",HGTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd
+
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://elgourmet.com/wp-content/themes/elgourmet/assets/img/icons/logo.png",El Gourmet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0X0bV9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
+
+#EXTINF:-1 group-title="🎬 Cultura y Cocina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png",Food Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0X0bV9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
+
+# =============================================
+# Pack RakutenTV (resto)
+# =============================================
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg",Peliculas Romanticas
+https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg",Cine Español
+https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg",Sci-Fi
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg",Thrillers
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fe76f469-0869-4bd8-a5de-a471d9740965.png",100% Navidad
+https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+
+# =============================================
+# Pack RakutenTV (resto final)
+# =============================================
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg",Mytime Movie Network
+https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg",Cine Western
+https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg",Crimen
+https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+
+#EXTINF:-1 group-title="Pack RakutenTV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg",Todo Novelas
+https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
+
+# =============================================
+# DEPORTE MOTOR
+# =============================================
+#EXTINF:-1 group-title="DEPORTE MOTOR" tvg-logo="https://i.ibb.co/5gR3ZQKg/image.png",GPTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8
+
+#EXTINF:-1 group-title="DEPORTE MOTOR" tvg-logo="https://i.ibb.co/r1gcP2y/image.png",Rally Tv
+https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTE MOTOR" tvg-logo="https://i.ibb.co/M3Hd6vN/image.png",F1 Tv
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+
+#EXTINF:-1 group-title="DEPORTE MOTOR" tvg-logo="https://i.ibb.co/200mKsrT/image.png",Nascar
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTE MOTOR" tvg-logo="https://i.ibb.co/RpXS2q5Y/image.png",Speed Sport
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTE MOTOR" tvg-logo="https://i.ibb.co/xKgNJsSr/image.png",Garage Tv
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 group-title="DEPORTE MOTOR" tvg-logo="https://i.ibb.co/0pT7WFQ2/image.png",Motor Vision
+https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
+
+
+
+
 #EXTM3U list-name="ARGENTINA ott navigator" list-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/320px-Flow_logo_2021.svg.png"
 
 
